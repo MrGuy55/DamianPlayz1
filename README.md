@@ -1,4 +1,4 @@
-### Hi i'm DamianPlayz. i don't have anything and i doubt i will have any projects in the near future but who knows.
+### Hi i'm DamianPlayz. i don't have anything and i doubt i will have any projects in the near future but who knows. i only know css so far but i plan on learning html, php, and hopefully JS.
 
 <!--
 **DamianPlayz1/DamianPlayz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
