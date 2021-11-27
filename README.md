@@ -1,4 +1,5 @@
-Hi i'm DamianPlayz. i don't have any projects currently. i only know css and a ***"normal?"*** amount of HTML and almost no JS so far but i plan on learning more of javascript and learn PHP and Python and maybe more languages 
+Hi i'm DamianPlayz. i don't have any projects currently. i only know css and a <b><i>"normal?"</i></b> amount of HTML and almost no JS so far but i plan on learning more of javascript and learn PHP and Python and maybe more languages
+
 
 <!--
 **DamianPlayz1/DamianPlayz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
