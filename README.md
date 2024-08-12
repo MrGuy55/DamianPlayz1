@@ -1,4 +1,4 @@
-Hi i'm DamianPlayz. i don't have any projects currently. i only know css and a <b><i>"normal?"</i></b> amount of HTML and almost no JS so far but i plan on learning more of javascript and learn PHP and Python and maybe more languages
+Hi i'm MrGuy55. i don't have any projects currently. i only know css and a <b><i>"normal?"</i></b> amount of HTML and almost no JS so far but I plan on learning more of javascript and learn PHP and Python and maybe more languages, (I know MrGuy is a weird username, however my previous username "DamianPlayz" was something stupid I came up with when I was 10 and I cannot think of another username).
 
 
 <!--
